@@ -4,10 +4,11 @@
     <title>The Standup</title>
     <link>https://adil1248.github.io/190abb54c2f58d7a91/</link>
     <atom:link href="https://adil1248.github.io/190abb54c2f58d7a91/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>A weekday accountability report connecting significant work to its customer, major initiative, material outcome, and the next 24-hour goal.</description>
     <language>en-us</language>
     <copyright>The Standup</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 12:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:23:41 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/190abb54c2f58d7a91/cover.jpg</url>
